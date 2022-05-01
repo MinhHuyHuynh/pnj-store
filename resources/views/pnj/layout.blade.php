@@ -73,13 +73,13 @@
 							</div>
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-								<img src="..." class="d-block w-100" alt="...">
+								<img src="./pnj/home/bongtai paner.png" class="d-block w-100" alt="...">
 								</div>
 								<div class="carousel-item">
-								<img src="..." class="d-block w-100" alt="...">
+								<img src="./pnj/home/nhẫn paner.png" class="d-block w-100" alt="...">
 								</div>
 								<div class="carousel-item">
-								<img src="..." class="d-block w-100" alt="...">
+								<img src="./pnj/home/lắc paner.jpg" class="d-block w-100" alt="...">
 								</div>
 							</div>
 							<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
