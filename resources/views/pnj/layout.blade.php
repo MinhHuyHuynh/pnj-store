@@ -73,13 +73,13 @@
 							</div>
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-								<img src="./pnj/home/bongtai paner.png" class="d-block w-100" alt="...">
+								<img src="./pnj/home/bongtai paner.png" class="d-block w-100" alt="panner1">
 								</div>
 								<div class="carousel-item">
-								<img src="./pnj/home/nhẫn paner.png" class="d-block w-100" alt="...">
+								<img src="./pnj/home/nhẫn paner.png" class="d-block w-100" alt="panner2">
 								</div>
 								<div class="carousel-item">
-								<img src="./pnj/home/lắc paner.png" class="d-block w-100" alt="...">
+								<img src="./pnj/home/lắc paner.png" class="d-block w-100" alt="panner3">
 								</div>
 							</div>
 							<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -104,13 +104,13 @@
 			<div class="container">
 				<div class="companyinfo">
 							<h2><span>PNJ</span> STORE</h2>
-							<p>© 2017 Công Ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận </p>
+							<p>© 2017 Công Ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận 
 							<br>
-							<p> 170E Phan Đăng Lưu, P.3, Q.Phú Nhuận, TP.Hồ Chí Minh</p> 
+							170E Phan Đăng Lưu, P.3, Q.Phú Nhuận, TP.Hồ Chí Minh
 							<br>
-							<p>ĐT: 028 39951703 - Fax: 028 3995 1702</p> 
+							ĐT: 028 39951703 - Fax: 028 3995 1702 
 							<br>
-							<p> Giấy chứng nhận đăng ký doanh nghiệp: 0300521758.</p>
+							 Giấy chứng nhận đăng ký doanh nghiệp: 0300521758.</p>
 				</div>
 			</div>
 		</div>
@@ -121,11 +121,11 @@
 					<form action="#" class="searchform">
 						<input type="text" placeholder="Your email address" />
 						<button type="submit" class="btn btn-default"><i class="fa fa-arrow-circle-o-right"></i></button>
-						<p>Tổng đài hỗ trợ (08:00-21:00, miễn phí gọi)</p>
+						<p>Tổng đài hỗ trợ (08:00-21:00, miễn phí gọi)
 						<br>
-						<p>Gọi mua: 1800545457 (phím 1)</p>
-						<br>	
-						<p>Khiếu nại: 1800545457 (phím 2)</p>  
+						Gọi mua: 1800545457 (phím 1)
+						<br>
+						Khiếu nại: 1800545457 (phím 2)</p>  
 					</form>
 				</div>
 			</div>

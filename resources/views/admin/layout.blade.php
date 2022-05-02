@@ -91,7 +91,7 @@
                     <li class="nav-item">
                         <a href="{{route('classify.create')}}" class="nav-link">
                             <i class="fas fa-circle nav-icon"></i>
-                            <p>Them phân loại</p>
+                            <p>Thêm phân loại</p>
                         </a>
                     </li>
                     <li class="nav-item">
