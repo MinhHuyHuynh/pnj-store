@@ -53,10 +53,10 @@
 			<li>Phương thức thanh toán <span>
 					<select name="pay">
 						<option value="1">Tiền mặt</option>
-						<option value="0">Tiền thẻ</option>
+						<option value="0">Chuyển khoản</option>
 					</select>
 				</span></li>
-			<li>Thông tin thanh toán ngân hàng <span>020562652005 Sacombank . . . </span></li>
+			<li>Thông tin thanh toán ngân (Hình thức thanh toán chuyển khoản):  <span>STK: 020562652005 NH: Sacombank Tên thụ hưởng: Trần Chí Đạt</span></li>
 			<li>Tên người nhận <input class="form-control" type="text" name="name_customer" required></li>
 			<li>Số điện thoại người nhận <input class="form-control" type="number" name="phone_customer" required ></li>
 			<li>Địa chỉ nhận <input class="form-control" type="text" name="address_customer" required></li>
